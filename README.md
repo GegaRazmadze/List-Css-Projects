@@ -4,4 +4,4 @@ I'm Gega - Web Developer. This is the list of my Css Projects.
 
 ### List of my Projects
 <ul>
-  <li>:sunrise_over_mountains: First : Natours - <a href="https://github.com/Puentnuar/CSS-Advence-1-natour">Github</a> - :fast_forward: <a href="https://dashboard.heroku.com/apps/natour-s/settings">Live</a></li>
+  <li>:sunrise_over_mountains: First : Natours - <a href="https://github.com/Puentnuar/CSS-Advence-1-natour">Github</a> - :fast_forward: <a href="https://gega-natour-css.herokuapp.com/">Live</a></li>
